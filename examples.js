@@ -1,5 +1,5 @@
 import { Selector, t } from "testcafe";
-import HomePage  from '../testcafe-prac/homepage.js';
+import HomePage  from './homepage.js';
 import ResultsPage from "./resultspage.js";
 
 const homePage = new HomePage;
